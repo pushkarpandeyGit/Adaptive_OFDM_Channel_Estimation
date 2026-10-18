@@ -1,0 +1,5 @@
+Estimator,CE_via_preamble,Iterative_CE
+LMMSE,19392,77184
+Fixed SVD,25920,51840
+Adaptive SVD,3264,10368
+Windowed DFT,2000,5808
